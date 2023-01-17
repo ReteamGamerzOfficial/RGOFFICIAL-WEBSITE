@@ -35,6 +35,10 @@ function download_PERCAL_online(){
     window.open("https://reteamgamerz.github.io/Percentage-Calculator/feedback.html");
 }
 
+function download_VAPE_online(){
+    window.open("https://reteamgamerzofficial.github.io/VAPE/");
+}
+
 //IMPORTANT
 const menuBtn = document.querySelector(".menu-icon span");
 const searchBtn = document.querySelector(".search-icon");
