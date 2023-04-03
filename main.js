@@ -1,7 +1,5 @@
 // Navigation Codes
-function redirect_about() {
-    window.location = "about.html";
-}
+
 
 function redirect_app_store() {
     window.location = "app_store.html";

@@ -1,6 +1,4 @@
-function redirect_about() {
-    window.location = "about.html";
-}
+
 
 function redirect_home() {
     window.location = "index.html";
